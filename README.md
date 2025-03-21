@@ -17,7 +17,7 @@ _Janeiro_ de 2025 - _Junho_ de 2026
 _**Programação em Python**_ - **SENAI** "Zerbini"   
 _Junho_ de 2023 - _Agosto de 2023_
 
-_**Implantação e análise e dados em nuvem - DP-900**__ - **SENAI** "Roberto Mange"
+_**Implantação e análise e dados em nuvem - DP-900**__ - **SENAI** "Roberto Mange"\
 _Março_ de 2023 - _Maio_ de 2023
 
 _**Implantação de serviços em nuvem - AZ-900**_ - **SENAI** "Roberto Mange"  
