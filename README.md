@@ -1,4 +1,5 @@
 <h1 style = "text-align: center;">Hi👋, I'am Samuel Miller Soares!</h1>
+
 - 💼 Currently working at **Bosch Brasil**
 - 🌱 Currently learning: **Python**, **Java**, **Power BI**
 - ⚡ Fun fact: **I play guitar and love history and geography.**
