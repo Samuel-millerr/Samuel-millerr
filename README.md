@@ -9,7 +9,7 @@
 
 ## 📊 GitHub Stats:
 <div style="display: inline" align="center">
-    <img src = "https://github-readme-stats.vercel.app/api?username=Samuel-millerr&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false" height = 162/>
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-millerr&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height = 158/>
     <img src = "https://nirzak-streak-stats.vercel.app/?user=Samuel-millerr&theme=codeSTACKr&hide_border=false" height = 163/>
 </div>
 
